@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/NewMap.umap",
+				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_HealthBar.uasset",
+				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/BlockGame/Maps/BlockGameMap.umap",
+				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset"
+			]
+		}
+	]
+}
