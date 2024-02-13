@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/EAIState.uasset",
+				"C:/Users/ericc9/Documents/GitHub/cs415mp2/Content/NewMap.umap",
 				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/NewMap.umap",
 				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/ericc9/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_HealthBar.uasset",
