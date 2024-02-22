@@ -1733,3 +1733,867 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.22-22.11.04:086][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 3.05 sec)
 [2024.02.22-22.11.04:095][206]AssetCheck: New page: Asset Save: BlockGameMap
 [2024.02.22-22.11.04:095][206]LogContentValidation: Display: Validating /Script/Engine.World /Game/BlockGame/Maps/BlockGameMap.BlockGameMap
+[2024.02.22-22.11.48:091][307]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-22.11.48:091][307]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-22.11.48:091][307]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-22.11.48:091][307]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-22.11.54:882][307]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.22-22.11.54:890][307]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.22-22.11.54:898][307]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.22-22.11.54:907][308]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.22-22.11.57:848][541]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.02.22-22.11.57:858][541]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.22-22.12.00:837][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.22-22.12.02:135][819]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.22-22.12.02:181][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.22-22.12.02:216][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.02.22-22.12.02:251][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.22-22.12.18:755][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/BP_Mortar.BP_Mortar
+[2024.02.22-22.12.18:757][634]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.13.22:785][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-22.13.22:913][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LearningKit_Games/Blueprints/BP_Mortar" FILE="../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_Mortar.uasset" SILENT=true
+[2024.02.22-22.13.22:926][820]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Mortar
+[2024.02.22-22.13.22:927][820]LogSavePackage: Moving '../../../../../../ericc9/Documents/GitHub/cs415mp2/Saved/BP_MortarB9F0DEC14861854E5C50A083CCA7D0CB.tmp' to '../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_Mortar.uasset'
+[2024.02.22-22.13.22:936][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 3.20 sec)
+[2024.02.22-22.13.22:945][820]AssetCheck: New page: Asset Save: BP_Mortar
+[2024.02.22-22.13.22:945][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Mortar.BP_Mortar
+[2024.02.22-22.13.23:354][843]BlueprintLog: New page: Compile BP_Mortar
+[2024.02.22-22.13.23:430][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.22-22.13.24:365][901]LogViewport: Scene viewport resized to 853x542, mode Windowed.
+[2024.02.22-22.13.35:115][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-22.13.35:237][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.22-22.13.35:378][876]LogSavePackage: Moving output files for package: /Game/BlockGame/Maps/BlockGameMap
+[2024.02.22-22.13.35:379][876]LogSavePackage: Moving '../../../../../../ericc9/Documents/GitHub/cs415mp2/Saved/BlockGameMapCB53D1E14B251628B9BFBA99122A4C75.tmp' to '../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/BlockGame/Maps/BlockGameMap.umap'
+[2024.02.22-22.13.35:396][876]LogFileHelpers: Saving map 'BlockGameMap' took 0.205
+[2024.02.22-22.13.35:403][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 3.49 sec)
+[2024.02.22-22.13.35:414][876]AssetCheck: New page: Asset Save: BlockGameMap
+[2024.02.22-22.13.35:414][876]LogContentValidation: Display: Validating /Script/Engine.World /Game/BlockGame/Maps/BlockGameMap.BlockGameMap
+[2024.02.22-22.13.36:164][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-22.13.36:172][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-22.13.36:172][953]PIE: New page: PIE session: BlockGameMap (Feb 22, 2024, 10:13:36 AM)
+[2024.02.22-22.13.36:173][953]LogPlayLevel: Creating play world package: /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.13.36:200][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026516s)
+[2024.02.22-22.13.36:200][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockGame/Maps/BlockGameMap.BlockGameMap to /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap (0.026552s)
+[2024.02.22-22.13.36:200][953]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.13.36:200][953]LogAIModule: Creating AISystem for world BlockGameMap
+[2024.02.22-22.13.36:200][953]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2024.02.22-22.13.36:243][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.02.22-22.13.36:245][953]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.22-22.13.36:245][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-22.13.36:245][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-22.13.36:245][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-22.13.36:245][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-22.13.36:245][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-22.13.36:245][953]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-22.13.36:245][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-22.13.36:245][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-22.13.36:246][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-22.13.36:246][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-22.13.36:246][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-22.13.36:248][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-22.13.36:266][953]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-22.13.36:267][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-22.13.36:267][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-22.13.36:267][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-22.13.36:267][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.22-22.13.36:267][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.22-22.13.36:269][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.22-22.13.36:269][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.22-22.13.36:269][953]LogInit: FAudioDevice initialized.
+[2024.02.22-22.13.36:269][953]LogAudio: Display: Audio Device (ID: 6) registered with world 'BlockGameMap'.
+[2024.02.22-22.13.36:272][953]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-22.13.36:281][953]LogWorld: Bringing World /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap up for play (max tick rate 0) at 2024.02.22-16.13.36
+[2024.02.22-22.13.38:838][953]LogWorld: Bringing up level for play took: 2.565602
+[2024.02.22-22.13.38:840][953]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.02.22-22.13.38:842][953]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.38:842][953]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.38:842][953]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.38:842][953]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.38:844][953]PIE: Server logged in
+[2024.02.22-22.13.38:845][953]PIE: Play in editor total start time 2.673 seconds.
+[2024.02.22-22.13.38:861][954]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.22-22.13.40:361][ 41]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.22-22.13.40:459][ 49]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.40:459][ 49]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.40:459][ 49]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.40:459][ 49]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.42:468][205]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.42:468][205]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.42:468][205]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.42:468][205]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.44:475][362]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.44:475][362]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.44:475][362]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.44:475][362]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.46:483][524]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.46:483][524]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.46:483][524]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.46:483][524]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.48:491][691]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.48:491][691]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.48:491][691]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.48:492][691]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.50:493][860]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.50:493][860]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.50:493][860]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.50:493][860]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.52:502][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.52:502][ 31]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.52:502][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.52:502][ 31]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.53:612][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.13.53:612][118]LogWorld: BeginTearingDown for /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.13.53:613][118]LogWorld: UWorld::CleanupWorld for BlockGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.13.53:614][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.13.53:620][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-22.13.53:627][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.13.53:671][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.13.53:671][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.22-22.13.53:674][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.22-22.13.53:683][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.22-22.13.53:723][119]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.02.22-22.13.56:079][394]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-22.13.56:088][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-22.13.56:088][394]PIE: New page: PIE session: BlockGameMap (Feb 22, 2024, 10:13:56 AM)
+[2024.02.22-22.13.56:088][394]LogPlayLevel: Creating play world package: /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.13.56:113][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024747s)
+[2024.02.22-22.13.56:113][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockGame/Maps/BlockGameMap.BlockGameMap to /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap (0.024783s)
+[2024.02.22-22.13.56:113][394]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.13.56:114][394]LogAIModule: Creating AISystem for world BlockGameMap
+[2024.02.22-22.13.56:114][394]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.02.22-22.13.56:157][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.02.22-22.13.56:160][394]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.22-22.13.56:160][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-22.13.56:160][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-22.13.56:160][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-22.13.56:160][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-22.13.56:160][394]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-22.13.56:160][394]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-22.13.56:160][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-22.13.56:160][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-22.13.56:161][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-22.13.56:161][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-22.13.56:161][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-22.13.56:164][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-22.13.56:179][394]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-22.13.56:179][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-22.13.56:179][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-22.13.56:179][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-22.13.56:180][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.22-22.13.56:180][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.22-22.13.56:182][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.22-22.13.56:182][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.22-22.13.56:182][394]LogInit: FAudioDevice initialized.
+[2024.02.22-22.13.56:182][394]LogAudio: Display: Audio Device (ID: 7) registered with world 'BlockGameMap'.
+[2024.02.22-22.13.56:185][394]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-22.13.56:194][394]LogWorld: Bringing World /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap up for play (max tick rate 0) at 2024.02.22-16.13.56
+[2024.02.22-22.13.58:705][394]LogWorld: Bringing up level for play took: 2.519976
+[2024.02.22-22.13.58:708][394]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.02.22-22.13.58:711][394]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.58:711][394]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.58:711][394]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.13.58:711][394]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.13.58:713][394]PIE: Server logged in
+[2024.02.22-22.13.58:713][394]PIE: Play in editor total start time 2.625 seconds.
+[2024.02.22-22.13.58:728][395]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.22-22.14.00:226][483]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.22-22.14.00:326][491]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.00:326][491]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.00:326][491]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.00:326][491]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.01:201][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.14.01:201][552]LogWorld: BeginTearingDown for /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.14.01:201][552]LogWorld: UWorld::CleanupWorld for BlockGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.14.01:203][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.14.01:215][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-22.14.01:222][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.14.01:265][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.14.01:266][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.22-22.14.01:268][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.22-22.14.01:277][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.22-22.14.01:308][553]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.02.22-22.14.32:453][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-22.14.32:552][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LearningKit_Games/Blueprints/BP_Mortar" FILE="../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_Mortar.uasset" SILENT=true
+[2024.02.22-22.14.32:565][293]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Mortar
+[2024.02.22-22.14.32:566][293]LogSavePackage: Moving '../../../../../../ericc9/Documents/GitHub/cs415mp2/Saved/BP_MortarB856B8394AE866809E1422BD3663C6D2.tmp' to '../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_Mortar.uasset'
+[2024.02.22-22.14.32:574][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 3.61 sec)
+[2024.02.22-22.14.32:583][293]AssetCheck: New page: Asset Save: BP_Mortar
+[2024.02.22-22.14.32:583][293]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Mortar.BP_Mortar
+[2024.02.22-22.14.33:070][333]BlueprintLog: New page: Compile BP_Mortar
+[2024.02.22-22.14.33:145][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.22-22.14.35:985][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-22.14.35:993][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-22.14.35:993][590]PIE: New page: PIE session: BlockGameMap (Feb 22, 2024, 10:14:35 AM)
+[2024.02.22-22.14.35:993][590]LogPlayLevel: Creating play world package: /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.14.36:019][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025435s)
+[2024.02.22-22.14.36:019][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockGame/Maps/BlockGameMap.BlockGameMap to /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap (0.025473s)
+[2024.02.22-22.14.36:019][590]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.14.36:019][590]LogAIModule: Creating AISystem for world BlockGameMap
+[2024.02.22-22.14.36:020][590]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2024.02.22-22.14.36:062][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.22-22.14.36:066][590]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.22-22.14.36:066][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-22.14.36:066][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-22.14.36:066][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-22.14.36:066][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-22.14.36:066][590]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-22.14.36:066][590]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-22.14.36:066][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-22.14.36:067][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-22.14.36:067][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-22.14.36:067][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-22.14.36:067][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-22.14.36:070][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-22.14.36:086][590]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-22.14.36:087][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-22.14.36:087][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-22.14.36:087][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-22.14.36:087][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.22-22.14.36:087][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.22-22.14.36:089][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.22-22.14.36:089][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.22-22.14.36:089][590]LogInit: FAudioDevice initialized.
+[2024.02.22-22.14.36:089][590]LogAudio: Display: Audio Device (ID: 8) registered with world 'BlockGameMap'.
+[2024.02.22-22.14.36:093][590]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-22.14.36:102][590]LogWorld: Bringing World /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap up for play (max tick rate 0) at 2024.02.22-16.14.36
+[2024.02.22-22.14.38:618][590]LogWorld: Bringing up level for play took: 2.524696
+[2024.02.22-22.14.38:620][590]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.02.22-22.14.38:623][590]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.38:623][590]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.38:623][590]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.38:623][590]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.38:624][590]PIE: Server logged in
+[2024.02.22-22.14.38:625][590]PIE: Play in editor total start time 2.632 seconds.
+[2024.02.22-22.14.38:648][591]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.22-22.14.40:247][689]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.40:249][689]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.40:249][689]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.40:249][689]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.42:259][861]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.42:259][861]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.42:259][861]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.42:259][861]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.44:261][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.44:261][ 31]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.44:261][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.14.44:261][ 31]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.14.44:870][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.14.44:871][ 79]LogWorld: BeginTearingDown for /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.14.44:871][ 79]LogWorld: UWorld::CleanupWorld for BlockGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.14.44:872][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.14.44:877][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-22.14.44:884][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.14.44:928][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-22.14.44:928][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.22-22.14.44:930][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.22-22.14.44:936][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.14.44:940][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.22-22.14.44:980][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.02.22-22.15.01:484][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-22.15.01:580][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LearningKit_Games/Blueprints/BP_Mortar" FILE="../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_Mortar.uasset" SILENT=true
+[2024.02.22-22.15.01:593][539]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Mortar
+[2024.02.22-22.15.01:594][539]LogSavePackage: Moving '../../../../../../ericc9/Documents/GitHub/cs415mp2/Saved/BP_Mortar0FBACD00449D9FBB8BAED4921E331BE6.tmp' to '../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_Mortar.uasset'
+[2024.02.22-22.15.01:603][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.73 sec)
+[2024.02.22-22.15.01:612][539]AssetCheck: New page: Asset Save: BP_Mortar
+[2024.02.22-22.15.01:612][539]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Mortar.BP_Mortar
+[2024.02.22-22.15.02:132][573]BlueprintLog: New page: Compile BP_Mortar
+[2024.02.22-22.15.02:208][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.02.22-22.15.03:572][684]LogSlate: Window 'BP_Mortar' being destroyed
+[2024.02.22-22.15.03:577][684]LogSlate: Window 'BP_Mortar' being destroyed
+[2024.02.22-22.15.03:587][684]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.15.03:587][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.15.04:858][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-22.15.04:866][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-22.15.04:866][823]PIE: New page: PIE session: BlockGameMap (Feb 22, 2024, 10:15:04 AM)
+[2024.02.22-22.15.04:866][823]LogPlayLevel: Creating play world package: /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.15.04:892][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025569s)
+[2024.02.22-22.15.04:892][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockGame/Maps/BlockGameMap.BlockGameMap to /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap (0.025606s)
+[2024.02.22-22.15.04:892][823]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.15.04:893][823]LogAIModule: Creating AISystem for world BlockGameMap
+[2024.02.22-22.15.04:893][823]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2024.02.22-22.15.04:928][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.22-22.15.04:941][823]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.22-22.15.04:941][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-22.15.04:941][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-22.15.04:941][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-22.15.04:941][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-22.15.04:941][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-22.15.04:941][823]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-22.15.04:941][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-22.15.04:941][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-22.15.04:942][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-22.15.04:942][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-22.15.04:942][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-22.15.04:945][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-22.15.04:959][823]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-22.15.04:959][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-22.15.04:959][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-22.15.04:959][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-22.15.04:960][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.22-22.15.04:960][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.22-22.15.04:962][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.22-22.15.04:962][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.22-22.15.04:962][823]LogInit: FAudioDevice initialized.
+[2024.02.22-22.15.04:962][823]LogAudio: Display: Audio Device (ID: 9) registered with world 'BlockGameMap'.
+[2024.02.22-22.15.04:965][823]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-22.15.04:973][823]LogWorld: Bringing World /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap up for play (max tick rate 0) at 2024.02.22-16.15.04
+[2024.02.22-22.15.07:486][823]LogWorld: Bringing up level for play took: 2.520913
+[2024.02.22-22.15.07:489][823]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.02.22-22.15.07:492][823]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.07:492][823]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.07:492][823]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.07:492][823]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.07:494][823]PIE: Server logged in
+[2024.02.22-22.15.07:495][823]PIE: Play in editor total start time 2.628 seconds.
+[2024.02.22-22.15.07:517][824]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.22-22.15.09:113][922]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.09:113][922]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.09:113][922]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.09:113][922]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.11:116][ 87]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.11:116][ 87]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.11:116][ 87]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.11:116][ 87]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.13:108][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.15.13:108][249]LogWorld: BeginTearingDown for /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.15.13:108][249]LogWorld: UWorld::CleanupWorld for BlockGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.15.13:110][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.15.13:114][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-22.15.13:122][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.15.13:157][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.15.13:159][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.22-22.15.13:161][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.22-22.15.13:170][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.02.22-22.15.13:208][250]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.02.22-22.15.16:975][645]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar
+[2024.02.22-22.15.16:975][645]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.15.20:581][857]LogViewport: Scene viewport resized to 853x541, mode Windowed.
+[2024.02.22-22.15.33:572][921]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2024.02.22-22.15.33:690][922]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/BlockGame/Maps/BlockGameMap.BlockGameMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-22.15.34:911][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-22.15.35:044][ 15]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_GunMortar
+[2024.02.22-22.15.35:045][ 15]LogSavePackage: Moving '../../../../../../ericc9/Documents/GitHub/cs415mp2/Saved/BP_GunMortar2B8FDE4345D0B6186E345D90F9352206.tmp' to '../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_GunMortar.uasset'
+[2024.02.22-22.15.35:053][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 3.87 sec)
+[2024.02.22-22.15.35:062][ 15]AssetCheck: New page: Asset Save: BP_GunMortar
+[2024.02.22-22.15.35:062][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar
+[2024.02.22-22.15.35:408][ 36]BlueprintLog: New page: Compile BP_GunMortar
+[2024.02.22-22.15.35:490][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.22-22.15.35:655][ 37]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/BlockGame/Maps/BlockGameMap.BlockGameMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-22.15.38:505][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-22.15.38:514][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-22.15.38:514][316]PIE: New page: PIE session: BlockGameMap (Feb 22, 2024, 10:15:38 AM)
+[2024.02.22-22.15.38:514][316]LogPlayLevel: Creating play world package: /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.15.38:539][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024801s)
+[2024.02.22-22.15.38:539][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockGame/Maps/BlockGameMap.BlockGameMap to /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap (0.024836s)
+[2024.02.22-22.15.38:539][316]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.15.38:539][316]LogAIModule: Creating AISystem for world BlockGameMap
+[2024.02.22-22.15.38:539][316]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2024.02.22-22.15.38:582][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.22-22.15.38:586][316]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.02.22-22.15.38:586][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-22.15.38:586][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-22.15.38:586][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-22.15.38:586][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-22.15.38:586][316]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-22.15.38:586][316]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-22.15.38:586][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-22.15.38:586][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-22.15.38:586][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-22.15.38:586][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-22.15.38:586][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-22.15.38:589][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-22.15.38:605][316]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-22.15.38:605][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-22.15.38:605][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-22.15.38:605][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-22.15.38:606][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.02.22-22.15.38:606][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.02.22-22.15.38:608][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.02.22-22.15.38:608][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.02.22-22.15.38:608][316]LogInit: FAudioDevice initialized.
+[2024.02.22-22.15.38:608][316]LogAudio: Display: Audio Device (ID: 10) registered with world 'BlockGameMap'.
+[2024.02.22-22.15.38:611][316]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-22.15.38:620][316]LogWorld: Bringing World /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap up for play (max tick rate 0) at 2024.02.22-16.15.38
+[2024.02.22-22.15.41:165][316]LogWorld: Bringing up level for play took: 2.553523
+[2024.02.22-22.15.41:168][316]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.02.22-22.15.41:170][316]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.41:170][316]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.41:170][316]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.41:170][316]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.41:172][316]PIE: Server logged in
+[2024.02.22-22.15.41:173][316]PIE: Play in editor total start time 2.659 seconds.
+[2024.02.22-22.15.41:194][317]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.22-22.15.42:791][420]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.42:791][420]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.42:791][420]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.42:791][420]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.44:793][589]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.44:793][589]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.44:793][589]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.44:793][589]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.46:805][757]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.46:805][757]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.46:805][757]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.15.46:805][757]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.15.47:447][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.15.47:447][806]LogWorld: BeginTearingDown for /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.15.47:448][806]LogWorld: UWorld::CleanupWorld for BlockGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.15.47:449][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.15.47:455][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-22.15.47:461][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.15.47:506][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-22.15.47:506][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.22-22.15.47:508][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.22-22.15.47:512][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.15.47:517][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.22-22.15.47:560][807]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.02.22-22.15.56:564][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-22.15.56:698][584]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_GunMortar
+[2024.02.22-22.15.56:698][584]LogSavePackage: Moving '../../../../../../ericc9/Documents/GitHub/cs415mp2/Saved/BP_GunMortar897ABA344EFA74755B50848F408DC55D.tmp' to '../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/LearningKit_Games/Blueprints/BP_GunMortar.uasset'
+[2024.02.22-22.15.56:708][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 4.02 sec)
+[2024.02.22-22.15.56:716][584]AssetCheck: New page: Asset Save: BP_GunMortar
+[2024.02.22-22.15.56:716][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar
+[2024.02.22-22.15.57:060][602]BlueprintLog: New page: Compile BP_GunMortar
+[2024.02.22-22.15.57:141][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.22-22.15.57:299][603]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/BlockGame/Maps/BlockGameMap.BlockGameMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-22.15.59:894][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-22.16.00:048][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.02.22-22.16.00:189][846]LogSavePackage: Moving output files for package: /Game/BlockGame/Maps/BlockGameMap
+[2024.02.22-22.16.00:190][846]LogSavePackage: Moving '../../../../../../ericc9/Documents/GitHub/cs415mp2/Saved/BlockGameMap42A90C4645D9A8FD90E619AA7ED642BF.tmp' to '../../../../../../ericc9/Documents/GitHub/cs415mp2/Content/BlockGame/Maps/BlockGameMap.umap'
+[2024.02.22-22.16.00:207][846]LogFileHelpers: Saving map 'BlockGameMap' took 0.210
+[2024.02.22-22.16.00:214][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 4.34 sec)
+[2024.02.22-22.16.00:224][846]AssetCheck: New page: Asset Save: BlockGameMap
+[2024.02.22-22.16.00:224][846]LogContentValidation: Display: Validating /Script/Engine.World /Game/BlockGame/Maps/BlockGameMap.BlockGameMap
+[2024.02.22-22.16.01:030][932]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-22.16.01:039][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-22.16.01:039][932]PIE: New page: PIE session: BlockGameMap (Feb 22, 2024, 10:16:01 AM)
+[2024.02.22-22.16.01:039][932]LogPlayLevel: Creating play world package: /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.16.01:065][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026179s)
+[2024.02.22-22.16.01:065][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockGame/Maps/BlockGameMap.BlockGameMap to /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap (0.026217s)
+[2024.02.22-22.16.01:065][932]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.16.01:066][932]LogAIModule: Creating AISystem for world BlockGameMap
+[2024.02.22-22.16.01:066][932]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2024.02.22-22.16.01:115][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.02.22-22.16.01:117][932]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.22-22.16.01:117][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-22.16.01:117][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-22.16.01:117][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-22.16.01:117][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-22.16.01:117][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-22.16.01:117][932]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-22.16.01:117][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-22.16.01:117][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-22.16.01:118][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-22.16.01:118][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-22.16.01:118][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-22.16.01:120][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-22.16.01:135][932]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-22.16.01:135][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-22.16.01:135][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-22.16.01:135][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-22.16.01:135][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.22-22.16.01:135][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.22-22.16.01:139][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.22-22.16.01:139][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.22-22.16.01:139][932]LogInit: FAudioDevice initialized.
+[2024.02.22-22.16.01:139][932]LogAudio: Display: Audio Device (ID: 11) registered with world 'BlockGameMap'.
+[2024.02.22-22.16.01:142][932]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-22.16.01:150][932]LogWorld: Bringing World /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap up for play (max tick rate 0) at 2024.02.22-16.16.01
+[2024.02.22-22.16.03:669][932]LogWorld: Bringing up level for play took: 2.527308
+[2024.02.22-22.16.03:671][932]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.02.22-22.16.03:674][932]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.03:674][932]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.03:674][932]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.03:674][932]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.03:675][932]PIE: Server logged in
+[2024.02.22-22.16.03:676][932]PIE: Play in editor total start time 2.637 seconds.
+[2024.02.22-22.16.03:691][933]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068164 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.22-22.16.05:295][ 34]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.05:296][ 34]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.05:296][ 34]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.05:296][ 34]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.07:303][194]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.07:303][194]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.07:303][194]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.07:303][194]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.09:308][358]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.09:308][358]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.09:308][358]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.09:308][358]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.11:313][523]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.11:314][523]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.11:314][523]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.11:314][523]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.13:316][694]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.13:316][694]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.13:316][694]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.13:316][694]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.15:321][863]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.15:321][863]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.15:321][863]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.15:321][863]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.17:328][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.17:328][ 33]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.17:328][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.17:328][ 33]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.19:338][203]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.19:338][203]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.19:338][203]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.19:338][203]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.21:347][375]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.21:347][375]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.21:347][375]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.21:347][375]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.23:348][544]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.23:348][544]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.23:348][544]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.23:348][544]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.25:352][706]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.25:353][706]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.25:353][706]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.25:353][706]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.27:363][872]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.27:363][872]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.27:363][872]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.27:363][872]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.28:498][966]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.22-22.16.29:369][ 36]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.29:369][ 36]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.29:369][ 36]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.29:369][ 36]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.31:378][193]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.31:378][193]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.31:378][193]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.31:378][193]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.33:383][362]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.33:383][362]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.33:383][362]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.33:383][362]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.35:759][511]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.35:759][511]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.35:759][511]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.16.35:759][511]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.16.37:005][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.16.37:005][610]LogWorld: BeginTearingDown for /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.16.37:006][610]LogWorld: UWorld::CleanupWorld for BlockGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.16.37:008][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.16.37:014][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-22.16.37:021][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.16.37:065][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-22.16.37:065][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.22-22.16.37:067][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.22-22.16.37:072][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.16.37:076][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.02.22-22.16.37:118][611]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.22-22.17.41:242][281]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-22.17.41:251][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-22.17.41:251][281]PIE: New page: PIE session: BlockGameMap (Feb 22, 2024, 10:17:41 AM)
+[2024.02.22-22.17.41:251][281]LogPlayLevel: Creating play world package: /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.17.41:276][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025406s)
+[2024.02.22-22.17.41:276][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockGame/Maps/BlockGameMap.BlockGameMap to /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap (0.025442s)
+[2024.02.22-22.17.41:276][281]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-22.17.41:277][281]LogAIModule: Creating AISystem for world BlockGameMap
+[2024.02.22-22.17.41:277][281]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2024.02.22-22.17.41:322][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.22-22.17.41:325][281]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.22-22.17.41:325][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-22.17.41:325][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-22.17.41:325][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-22.17.41:325][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-22.17.41:325][281]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-22.17.41:325][281]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-22.17.41:325][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-22.17.41:325][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-22.17.41:326][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-22.17.41:326][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-22.17.41:326][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-22.17.41:329][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-22.17.41:344][281]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-22.17.41:345][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-22.17.41:345][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-22.17.41:345][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-22.17.41:345][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.22-22.17.41:345][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.22-22.17.41:347][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.22-22.17.41:347][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.22-22.17.41:348][281]LogInit: FAudioDevice initialized.
+[2024.02.22-22.17.41:348][281]LogAudio: Display: Audio Device (ID: 12) registered with world 'BlockGameMap'.
+[2024.02.22-22.17.41:350][281]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-22.17.41:359][281]LogWorld: Bringing World /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap.BlockGameMap up for play (max tick rate 0) at 2024.02.22-16.17.41
+[2024.02.22-22.17.43:869][281]LogWorld: Bringing up level for play took: 2.518131
+[2024.02.22-22.17.43:871][281]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.02.22-22.17.43:874][281]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.43:874][281]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.43:874][281]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.43:874][281]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.43:876][281]PIE: Server logged in
+[2024.02.22-22.17.43:876][281]PIE: Play in editor total start time 2.625 seconds.
+[2024.02.22-22.17.43:892][282]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068164 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.22-22.17.45:486][378]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.45:486][378]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.45:486][378]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.45:486][378]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.47:137][500]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.22-22.17.47:495][530]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.47:495][530]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.47:495][530]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.47:495][530]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.48:534][615]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_1] Power Up
+[2024.02.22-22.17.49:496][692]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.49:496][692]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.49:496][692]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.49:496][692]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.51:504][850]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.51:504][850]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.51:504][850]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.51:504][850]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.53:509][ 13]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.53:509][ 13]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.53:509][ 13]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.53:509][ 13]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.55:509][180]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.55:509][180]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.55:509][180]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.55:509][180]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.57:512][343]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.57:512][343]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.57:512][343]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.57:512][343]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.58:250][401]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_3] Collectable
+[2024.02.22-22.17.59:517][502]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.59:517][502]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.17.59:517][502]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.17.59:517][502]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.18.01:526][665]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.18.01:526][665]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.18.01:526][665]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.18.01:526][665]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.18.03:534][830]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.18.03:534][830]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.18.03:534][830]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.18.03:534][830]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.18.05:540][997]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.18.05:540][997]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.18.05:540][997]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.02.22-22.18.05:540][997]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/BP_GunMortar.BP_GunMortar_C.MortarPredicitonFunction
+
+[2024.02.22-22.18.05:861][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.18.05:861][ 19]LogWorld: BeginTearingDown for /Game/BlockGame/Maps/UEDPIE_0_BlockGameMap
+[2024.02.22-22.18.05:862][ 19]LogWorld: UWorld::CleanupWorld for BlockGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-22.18.05:863][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.18.05:868][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-22.18.05:876][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-22.18.05:921][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-22.18.05:922][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.22-22.18.05:924][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.22-22.18.05:928][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-22.18.05:934][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.22-22.18.05:980][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.22-22.18.07:723][197]LogAudioMixer: Warning: FMixerPlatformXAudio2: Audio device removed [[No Friendly Name for Device]], falling back to other windows default device. bIsRenderDevice=1, InstanceID=1
+[2024.02.22-22.18.07:727][197]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.02.22-22.18.07:830][197]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16100
+[2024.02.22-22.18.18:007][228]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Remote Audio, InstanceID=1
+[2024.02.22-22.18.18:182][228]LogViewport: Scene viewport resized to 1142x762, mode Windowed.
+[2024.02.22-22.18.18:777][229]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={3.0.0.00000005}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}, Name=Remote Audio), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=187.61
+[2024.02.22-22.18.18:777][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.22-22.18.18:780][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.22-22.18.18:864][230]LogViewport: Scene viewport resized to 1142x714, mode Windowed.
